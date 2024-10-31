@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "fantasque_regular";
+    src: url(../fonts/fantasque/fantasquesansmono-regular.otf) format(opentype);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "fantasque_bold";
+    src: url(../fonts/fantasque/fantasquesansmono-bold.otf) format(opentype);
+    font-weight: 700;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "fantasque_italic";
+    src: url(../fonts/fantasque/fantasquesansmono-italic.otf) format(opentype);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "fantasque_bold_italic";
+    src: url(../fonts/fantasque/fantasquesansmono-bolditalic.otf) format(opentype);
+    font-weight: 700;
+    font-style: bold-italic;
+}
